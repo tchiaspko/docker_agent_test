@@ -24,3 +24,5 @@ test tchia04
 no user
 ghprbhook onlyt 
 no github url
+
+disabled build when a change is pushed to GitHub
