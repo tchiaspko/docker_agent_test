@@ -26,3 +26,4 @@ ghprbhook onlyt
 no github url
 
 disabled build when a change is pushed to GitHub
+PR comment doesn't trigger a build
