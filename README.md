@@ -21,3 +21,4 @@ restrict node
 restrict node -ft slave
 changed system config
 test tchia04
+no user
