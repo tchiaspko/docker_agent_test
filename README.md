@@ -22,4 +22,5 @@ restrict node -ft slave
 changed system config
 test tchia04
 no user
-ghprbhook only
+ghprbhook onlyt 
+no github url
