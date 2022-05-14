@@ -13,3 +13,4 @@ ghprb2
 phprb3
 disabled https://qa-test.spokeo.com/ghprbhook/
  
+pull reuqest event only
