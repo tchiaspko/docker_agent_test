@@ -18,3 +18,4 @@ test credential
 test credential 2
 test credential 3
 restrict node
+restrict node -ft slave
