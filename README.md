@@ -31,3 +31,4 @@ uncheck poll scm
 
 test new logger
 logger2
+logger on unit-test
