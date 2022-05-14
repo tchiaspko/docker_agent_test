@@ -30,3 +30,4 @@ PR comment doesn't trigger a build
 uncheck poll scm
 
 test new logger
+logger2
