@@ -29,3 +29,4 @@ disabled build when a change is pushed to GitHub
 PR comment doesn't trigger a build
 uncheck poll scm
 
+test new logger
