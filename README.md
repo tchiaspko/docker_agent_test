@@ -16,3 +16,4 @@ disabled https://qa-test.spokeo.com/ghprbhook/
 pull reuqest event only
 test credential
 test credential 2
+test credential 3
