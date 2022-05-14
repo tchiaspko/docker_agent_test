@@ -32,3 +32,4 @@ uncheck poll scm
 test new logger
 logger2
 logger on unit-test
+removed auto manage webhook on unit-test
