@@ -33,3 +33,4 @@ test new logger
 logger2
 logger on unit-test
 removed auto manage webhook on unit-test
+switch from json to form on unit-test
